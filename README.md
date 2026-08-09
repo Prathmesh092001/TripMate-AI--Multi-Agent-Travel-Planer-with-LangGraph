@@ -48,17 +48,6 @@ AviationStack API
 
 ---
 
-### Project Structure
-
-.
-├── app.py            #FastAPI app entry point
-├── backend.py        #LangGraph travel workflow
-├── requirements.txt  #Python dependencies
-├── static/           #Static frontend assets
-├── templates/        #HTML templates
-└── tools/     
-
----
 
 ## ✨ Features
 
